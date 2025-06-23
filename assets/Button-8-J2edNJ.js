@@ -1,0 +1,1 @@
+import{j as t}from"./Layout-BsDJrbXZ.js";function x({label:s="",href:e="",target:a,size:n="",color:r="",className:o=""}){const l=n?`btn-${n}`:"",c=r?`btn-${r}`:"",i=a==="_blank"?{target:"_blank",rel:"noopener noreferrer"}:{};return t.jsx("div",{className:`btn ${l} ${c} ${o}`,children:t.jsx("div",{className:"button",children:t.jsx("a",{href:e,...i,children:s})})})}export{x as B};
